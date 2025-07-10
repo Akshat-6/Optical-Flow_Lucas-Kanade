@@ -137,3 +137,7 @@ Clone the repository:
 
 git clone https://github.com/yourusername/optical-flow-lucas-kanade.git
 cd optical-flow-lucas-kanade
+
+Install dependencies:
+
+
