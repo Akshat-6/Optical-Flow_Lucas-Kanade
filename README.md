@@ -164,3 +164,5 @@ Visualization of movement trails
 📌 Applications
 
 Object Tracking
+
+Motion Estimation
