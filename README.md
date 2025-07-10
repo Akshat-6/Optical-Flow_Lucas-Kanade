@@ -152,3 +152,6 @@ Press Q to stop the video playback.
 
 
 📊 Sample Output
+
+Arrows showing motion direction of tracked features
+
