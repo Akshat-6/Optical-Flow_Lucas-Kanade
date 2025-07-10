@@ -191,3 +191,5 @@ Extend to track objects in real time
 
 Feature detection using Shi-Tomasi corner detection
 
+Sparse optical flow vs dense optical flow
+
