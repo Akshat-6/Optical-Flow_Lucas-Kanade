@@ -109,3 +109,11 @@ Draws motion vectors using lines and circles
 
 
 📁 Project Structure
+
+
+optical-flow-lucas-kanade/
+├── lucas_kanade_optical_flow.py        # Main script
+├── sample_video.mp4                    # Optional video file
+├── output_frames/                      # Optional: stored output
+├── README.md
+└── requirements.txt
