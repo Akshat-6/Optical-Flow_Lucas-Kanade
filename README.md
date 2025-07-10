@@ -102,3 +102,5 @@ Reads two consecutive frames or a video stream
 
 Detects good features to track using cv2.goodFeaturesToTrack()
 
+Applies cv2.calcOpticalFlowPyrLK() for Lucas–Kanade optical flow
+
