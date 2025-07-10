@@ -30,5 +30,9 @@ Assumes small and consistent motion in a neighborhood
 
 Solves the optical flow equation using least squares in a window around each pixel
 
+Tracks sparse features (corners, high-texture points)
+
+
+
 
 
