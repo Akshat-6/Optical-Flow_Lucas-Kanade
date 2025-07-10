@@ -147,3 +147,4 @@ Run the script:
 
 python lucas_kanade_optical_flow.py
 
+Press Q to stop the video playback.
