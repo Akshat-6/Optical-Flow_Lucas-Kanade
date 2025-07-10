@@ -33,6 +33,7 @@ Solves the optical flow equation using least squares in a window around each pix
 Tracks sparse features (corners, high-texture points)
 
 
+Optical Flow Equation:
 
 
 
