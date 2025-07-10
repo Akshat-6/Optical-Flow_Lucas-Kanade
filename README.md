@@ -89,7 +89,9 @@ y
 
 
 
- 
+To track motion between frames by calculating pixel-wise displacement vectors.
+
+
 
 
  
