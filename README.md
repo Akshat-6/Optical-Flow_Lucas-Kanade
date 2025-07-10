@@ -193,3 +193,5 @@ Feature detection using Shi-Tomasi corner detection
 
 Sparse optical flow vs dense optical flow
 
+Efficient real-time tracking using pyramidal implementation
+
