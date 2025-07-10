@@ -92,6 +92,7 @@ y
 To track motion between frames by calculating pixel-wise displacement vectors.
 
 
+Visualize motion vectors for selected key points using arrows or trails.
 
 
  
