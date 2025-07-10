@@ -145,5 +145,5 @@ pip install opencv-python numpy
 
 Run the script:
 
-
+python lucas_kanade_optical_flow.py
 
