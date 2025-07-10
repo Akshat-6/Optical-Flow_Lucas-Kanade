@@ -126,3 +126,6 @@ Python
 
 OpenCV
 
+NumPy
+
+
