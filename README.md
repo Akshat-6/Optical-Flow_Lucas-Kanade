@@ -198,6 +198,8 @@ Efficient real-time tracking using pyramidal implementation
 
 🧾 Requirements
 
+opencv-python
+numpy
 
 
 
