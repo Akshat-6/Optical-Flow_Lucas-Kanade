@@ -71,3 +71,19 @@ t
  : Temporal intensity gradient
 
 
+𝑉
+𝑥
+,
+𝑉
+𝑦
+V 
+x
+​
+ ,V 
+y
+​
+ : Flow vector to be estimated
+
+
+ 
+
