@@ -179,4 +179,6 @@ Activity Recognition
 
 Compare with Farneback Dense Optical Flow
 
+Use with camera feed (e.g., cv2.VideoCapture(0))
+
 
