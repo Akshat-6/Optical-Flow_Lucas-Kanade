@@ -143,4 +143,7 @@ Install dependencies:
 
 pip install opencv-python numpy
 
+Run the script:
+
+
 
