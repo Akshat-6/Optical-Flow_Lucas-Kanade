@@ -161,4 +161,5 @@ Visualization of movement trails
 
 
 
+📌 Applications
 
