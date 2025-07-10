@@ -28,5 +28,7 @@ The Lucas–Kanade method is a differential method for optical flow estimation:
 
 Assumes small and consistent motion in a neighborhood
 
+Solves the optical flow equation using least squares in a window around each pixel
+
 
 
