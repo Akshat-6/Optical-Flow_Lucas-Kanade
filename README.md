@@ -155,3 +155,5 @@ Press Q to stop the video playback.
 
 Arrows showing motion direction of tracked features
 
+Dynamic tracking of corners across frames
+
