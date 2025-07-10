@@ -15,3 +15,5 @@ It is used in:
 
 Motion detection
 
+Object tracking
+
