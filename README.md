@@ -56,4 +56,12 @@ t
 
  Where:
 
+I 
+x
+​
+ ,I 
+y
+​
+ : Spatial image gradients
+
 
