@@ -98,3 +98,5 @@ Visualize motion vectors for selected key points using arrows or trails.
  
 📂 Features
 
+Reads two consecutive frames or a video stream
+
