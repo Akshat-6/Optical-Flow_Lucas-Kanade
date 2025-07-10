@@ -100,3 +100,5 @@ Visualize motion vectors for selected key points using arrows or trails.
 
 Reads two consecutive frames or a video stream
 
+Detects good features to track using cv2.goodFeaturesToTrack()
+
