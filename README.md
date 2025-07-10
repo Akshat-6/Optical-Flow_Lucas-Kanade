@@ -181,4 +181,6 @@ Compare with Farneback Dense Optical Flow
 
 Use with camera feed (e.g., cv2.VideoCapture(0))
 
+Save annotated frames to output/ folder
+
 
