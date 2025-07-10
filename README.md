@@ -1,4 +1,3 @@
-Autonomous navigation
 
 
 # Optical-Flow_Lucas-Kanade
@@ -21,4 +20,7 @@ Motion detection
 Object tracking
 
 Video stabilization
+
+
+📌 Lucas–Kanade Method – Theory
 
