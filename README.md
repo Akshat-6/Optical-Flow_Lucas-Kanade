@@ -8,3 +8,6 @@ This project demonstrates how to detect motion between consecutive video frames 
 
 
 🧠 What is Optical Flow?
+
+Optical Flow refers to the pattern of apparent motion of objects, surfaces, and edges in a visual scene caused by relative motion between an observer and the scene.
+
