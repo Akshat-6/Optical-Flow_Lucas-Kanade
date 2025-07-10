@@ -189,4 +189,5 @@ Extend to track objects in real time
 
 🌟 Learnings
 
+Feature detection using Shi-Tomasi corner detection
 
