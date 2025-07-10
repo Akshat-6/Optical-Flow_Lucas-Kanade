@@ -5,3 +5,6 @@ Implementation of Lucas–Kanade optical flow to detect and track motion between
 
 
 This project demonstrates how to detect motion between consecutive video frames using the Lucas–Kanade Optical Flow algorithm, implemented in Python using OpenCV.
+
+
+🧠 What is Optical Flow?
