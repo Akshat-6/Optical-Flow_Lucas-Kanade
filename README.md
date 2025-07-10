@@ -130,3 +130,8 @@ NumPy
 
 Matplotlib (for visualization, optional)
 
+🚀 How to Run
+
+Clone the repository:
+
+
