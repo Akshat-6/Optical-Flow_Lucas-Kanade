@@ -176,3 +176,7 @@ Activity Recognition
 
 
 💡 Additional Ideas
+
+Compare with Farneback Dense Optical Flow
+
+
