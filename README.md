@@ -17,3 +17,5 @@ Motion detection
 
 Object tracking
 
+Video stabilization
+
