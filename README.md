@@ -166,3 +166,5 @@ Visualization of movement trails
 Object Tracking
 
 Motion Estimation
+
+Gesture Recognition
