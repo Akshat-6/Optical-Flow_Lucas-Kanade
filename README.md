@@ -65,3 +65,9 @@ y
  : Spatial image gradients
 
 
+ I 
+t
+​
+ : Temporal intensity gradient
+
+
