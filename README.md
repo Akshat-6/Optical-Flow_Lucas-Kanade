@@ -157,3 +157,8 @@ Arrows showing motion direction of tracked features
 
 Dynamic tracking of corners across frames
 
+Visualization of movement trails
+
+
+
+
