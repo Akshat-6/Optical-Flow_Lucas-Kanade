@@ -36,4 +36,19 @@ Tracks sparse features (corners, high-texture points)
 Optical Flow Equation:
 
 
-
+I 
+x
+​
+ ⋅V 
+x
+​
+ +I 
+y
+​
+ ⋅V 
+y
+​
+ +I 
+t
+​
+ =0
