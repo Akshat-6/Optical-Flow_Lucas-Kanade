@@ -170,3 +170,5 @@ Motion Estimation
 Gesture Recognition
 
 Robot Navigation
+
+Activity Recognition
