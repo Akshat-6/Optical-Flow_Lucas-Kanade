@@ -13,3 +13,5 @@ Optical Flow refers to the pattern of apparent motion of objects, surfaces, and 
 
 It is used in:
 
+Motion detection
+
