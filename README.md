@@ -128,4 +128,5 @@ OpenCV
 
 NumPy
 
+Matplotlib (for visualization, optional)
 
