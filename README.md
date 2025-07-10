@@ -24,3 +24,5 @@ Video stabilization
 
 📌 Lucas–Kanade Method – Theory
 
+The Lucas–Kanade method is a differential method for optical flow estimation:
+
