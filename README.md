@@ -141,3 +141,6 @@ cd optical-flow-lucas-kanade
 Install dependencies:
 
 
+pip install opencv-python numpy
+
+
